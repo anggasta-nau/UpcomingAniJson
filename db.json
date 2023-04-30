@@ -1,0 +1,58 @@
+{
+    "List": [
+     {
+       "id": 1,
+       "imgUrl": "https://cdn.myanimelist.net/images/anime/1776/131746.jpg",
+       "title": "Mushoku Tensei",
+       "genre" : "Action,Adventure,Comedy,Fantasy",
+       "rating" : "4.5/5.0",
+       "Deskripsi": "Rudeus, Eris, and Rujierd head for Asura Kingdom in search of answers. Meanwhile, Roxy sets out across the Demon Continent to find Rudeus.",
+       "release" : "Summer 2023"
+     },
+     {
+       "id": 2,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163132-DGewphASFZol.jpg",
+       "title": "Horimiya -piece-",
+       "genre" : "Comedy, Romance, Slice of life",
+       "rating" : "4.5/5.0",
+       "Deskripsi": "A new Anime Project adapting popular side stories left out from the previous adaptation.",
+       "release" : "Summer 2023"
+     },
+     {
+       "id": 3,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131863-G7bfAMPea08v.png",
+       "title": "Liar Liar",
+       "genre" : "Ecchi, Psyhcological, Romance",
+       "rating" : "4.5/5.0",
+       "Deskripsi": "At Academy Island, everything is settled through Games waged for a certain number of stars, with the strongest student being granted the ranking of Seven Stars. Hiroto, a transfer student, unexpectedly beats the strongest empress and becomes the pseudo-strongest in the school! A mind game of lies and bluffs begins!",
+       "release" : "Summer 2023"
+     },
+     {
+       "id": 4,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139606-Hjj40GTJEMvi.jpg",
+       "title": "Eiyuu Kyoushitsu",
+       "genre" : "Action,Adventure,Comedy,Fantasy",
+       "rating" : "4.5/5.0",
+       "Deskripsi": "The story is set in Rosewood Academy, a school that trains future heroes destined to protect mankind. The school accepts only those with the most potential. Arnest Flaming, a girl who boasts the top record in the academy, is assigned to guide a mysterious but cheerful new student named Blade who rivals her own power.",
+       "release" : "Summer 2023"
+     },
+     {
+       "id": 5,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146065-OVPsmFwRUz7t.jpg",
+       "title": "Ruroni Kenshin",
+       "genre" : "Action,Adventure,Comedy,Fantasy",
+       "rating" : "4.5/5.0",
+       "Deskripsi": "The anime will re-adapt the main manga series.",
+       "release" : "Summer 2023"
+     },
+     {
+       "id": 6,
+       "imgUrl": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163263-uz881pFAyi7P.jpg",
+       "title": "Bungo Stray Dogs",
+       "genre" : "Action,Adventure,Comedy,Mystery",
+       "rating" : "4.5/5.0",
+       "Deskripsi": "The fifth season of Bungou Stray Dogs. Detective employees are caught one after another, and Kamui, the leader of Tenjin Goshui, is closing in on the Armed Detective Agency. Will the Agency survive?!",
+       "release" : "Summer 2023"
+     }
+   ]
+ }
